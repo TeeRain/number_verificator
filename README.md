@@ -1,5 +1,7 @@
 # number_verificator
 
+flutter pub run build_runner build for create .g.dart files
+
 A new Flutter project.
 
 ## Getting Started
